@@ -75,6 +75,9 @@ export const Hero: React.FC = () => {
               <a href="#projects" className="btn primary">
                 My Projects
               </a>
+              <a href="#experience" className="btn outline">
+                Experience
+              </a>
               <a href="#contact" className="btn outline">
                 Contacts
               </a>
