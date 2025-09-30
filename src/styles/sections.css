@@ -1,0 +1,2 @@
+/* re-export global for now to keep separation if you extend later */
+@import './global.css';
